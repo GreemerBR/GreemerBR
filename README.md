@@ -1,9 +1,56 @@
-### Olá, meu nome é Gregory Viegas Zimmer 👨🏻‍💻
+<div align="center">
+    <h1>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá, meu nome é Gregory Viegas Zimmer
+    </h1>
+</div>
 
-😄 Meus pronomes são Ele/Dele <br>
-🚀 Trabalho como Assistente de Engenharia de Software na Warren Brasil <br>
-📚 Estudo C# no Programa Entra21 <br>
-🎯 Aprendendo desenvolvimento mobile com framework Flutter 
+<br>
+
+<table align="center">
+    <tr>
+        <td>
+            <p>😄 Meus pronomes são Ele/Dele</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>🚀 Trabalho como Assistente de Engenharia de Software na Warren Brasil</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>📚 Estudo C# no Programa Entra21</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>🎯 Aprendendo desenvolvimento mobile com framework Flutter</p>
+        </td>
+    </tr>
+</table>
+
+<br>
+
+<div align="center">
+    <p>
+        Tecnologias que uso:
+    </p>
+</div>
+
+<div align="center">
+  <tr>
+    <td>
+    <td>
+        <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" width="35px" height="35px"></a>
+    </td>
+        <a href="https://dart.dev/" title="Dart"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" alt="Dart" width="35px" height="35px"></a>
+    </td>
+    <td>
+        <a href="https://flutter.dev/" title="Flutter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" alt="Flutter" width="35px" height="35px"></a>
+    </td>            
+  </tr>
+  
+  <br><br>
 
 <div align="center">
 <p align="center" >
@@ -12,9 +59,10 @@
   </a>
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greemerbr&layout=compact)](https://github.com/greemerbr/github-readme-stats)
+<img width="360px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greemerbr&layout=compact&theme=tokyonight&count_private=true&show_icons=true&langs_count=8&cache_seconds=3600"/>
 </div>
+
+<br>
 
 **Contato:**
 
