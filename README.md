@@ -69,5 +69,3 @@
 [![LinkedIn_Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregoryviegaszimmer/)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547991885219) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gregory.v.zimmer@gmail.com)](mailto:gregory.v.zimmer@gmail.com)
-
-![Snake animation](https://github.com/GreemerBR/GreemerBR/blob/output/github-contribution-grid-snake.svg)
