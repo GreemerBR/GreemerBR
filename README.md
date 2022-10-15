@@ -41,13 +41,7 @@
   <tr>
     <td>
     <td>
-        <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" width="35px" height="35px"></a>
-    </td>
-        <a href="https://dart.dev/" title="Dart"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" alt="Dart" width="35px" height="35px"></a>
-    </td>
-    <td>
-        <a href="https://flutter.dev/" title="Flutter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" alt="Flutter" width="35px" height="35px"></a>
-    </td>            
+        <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" width="35px" height="35px"></a>              
   </tr>
   
   <br><br>
