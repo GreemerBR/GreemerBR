@@ -19,12 +19,12 @@
     </tr>
     <tr>
         <td>
-            <p>📚 Estudo C# no Programa Entra21</p>
+            <p>🎯 Atuo com .Net</p>
         </td>
     </tr>
     <tr>
         <td>
-            <p>🎯 Aprendendo desenvolvimento mobile com framework Flutter</p>
+            <p>📚 Estudo C# no Programa Entra21</p>
         </td>
     </tr>
 </table>
